@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19798" started-at="2020-01-06T08:17:44Z" finished-at="2020-01-06T08:18:04Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="19798" started-at="2020-01-06T08:17:44Z" finished-at="2020-01-06T08:18:04Z">
+      <class name="ObjectTest.ParallelExec">
+        <test-method status="PASS" signature="openBing()[pri:0, instance:ObjectTest.ParallelExec@4501b7af]" name="openBing" duration-ms="16917" started-at="2020-01-06T13:47:44Z" finished-at="2020-01-06T13:48:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBing -->
+        <test-method status="PASS" signature="openGoogle()[pri:0, instance:ObjectTest.ParallelExec@4501b7af]" name="openGoogle" duration-ms="19652" started-at="2020-01-06T13:47:44Z" finished-at="2020-01-06T13:48:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+      </class> <!-- ObjectTest.ParallelExec -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
