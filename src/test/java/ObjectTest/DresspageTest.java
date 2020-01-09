@@ -14,7 +14,7 @@ public class DresspageTest {
 		HomePage hp;
 		Dresspage dp;
 		
-		public DresspageTest12() {
+		public DresspageTest12678() {
 			bp= new BasePage();
 			hp= new HomePage();
 			dp= new Dresspage();
